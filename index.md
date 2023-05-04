@@ -11,7 +11,7 @@ I performed the data analysis with Python to draw some actionable insights and t
 
 <img src="/images/foodhub.png?raw=true"/>
 
-[View code on Colab](https://colab.research.google.com/drive/16LAsM1J8FbDLrKvtuhD2hv7dwq7ZfxEz/view?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/16LAsM1J8FbDLrKvtuhD2hv7dwq7ZfxEz?usp=sharing)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
