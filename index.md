@@ -1,4 +1,6 @@
-## [Portfolio](https://eportfolio.mygreatlearning.com/roman-kharchenko)
+## Portfolio
+
+[Confirmed academic e-portfolio](https://eportfolio.mygreatlearning.com/roman-kharchenko)
 
 ---
 
@@ -9,7 +11,7 @@ I performed the data analysis with Python to draw some actionable insights and t
 
 <img src="/images/foodhub.png?raw=true"/>
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on Colab](https://drive.google.com/file/d/16LAsM1J8FbDLrKvtuhD2hv7dwq7ZfxEz/view?usp=sharing)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
