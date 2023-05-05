@@ -25,6 +25,8 @@ make a decision on a new sales model (a subscription model) that will attract mo
 
 <img src="images/Tableau-mDB2.png?raw=true"/>
 
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+
 [View dashboard on Tableau Public](https://public.tableau.com/app/profile/roman3494/viz/GrLrn-Project-Gamers_Arena/InteractiveDashboard?publish=yes)
 
 ---
