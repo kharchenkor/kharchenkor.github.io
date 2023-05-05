@@ -17,8 +17,15 @@ Within the framework of the project, the most popular restaurants were also iden
 [View code on Colab](https://colab.research.google.com/drive/16LAsM1J8FbDLrKvtuhD2hv7dwq7ZfxEz?usp=sharing)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Data Visualization using Tableau
+
+Business context: gaming website provides information about video games. It keeps track of the games that have been released 
+and their sales across various platforms and genres. I designed an interactive dashboard that helps the management of the company 
+make a decision on a new sales model (a subscription model) that will attract more gamers to their platform.
+
+<img src="images/Tableau-mDB2.png?raw=true"/>
+
+[View dashboard on Tableau Public](https://public.tableau.com/app/profile/roman3494/viz/GrLrn-Project-Gamers_Arena/InteractiveDashboard?publish=yes)
 
 ---
 [Project 3 Title](http://example.com/)
