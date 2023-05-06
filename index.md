@@ -11,11 +11,11 @@ I performed the data analysis with Python to draw some actionable insights and t
 Within the framework of the project, the most popular restaurants were also identified, analyzed, and their distinctive features were established.
 
 #### Some examples
-#### **Figure 1**: Types of cuisine in restaurants, number of orders, rating
-<img src="/images/1.png" width="750" height="330">
-<img src="/images/2.png" width="750" height="330">
+**Figure 1**: Types of cuisine in restaurants, number of orders, rating
+<img src="/images/1.png" width="750" height="300">
+<img src="/images/2.png" width="750" height="300">
 
-#### **Figure 2**: The most popular restaurants, types of cuisine, correlation matrix
+**Figure 2**: The most popular restaurants, types of cuisine, correlation matrix
 <img src="/images/3.png" width="750" height="360">
 <img src="/images/4.png?raw=true"/>
 
