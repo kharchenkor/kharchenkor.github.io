@@ -10,11 +10,11 @@ Business context: the food aggregator company has stored the data of the differe
 I performed the data analysis with Python to draw some actionable insights and to find answers that will help the company to improve its business.
 Within the framework of the project, the most popular restaurants were also identified, analyzed, and their distinctive features were established.
 
-<img src="/images/1.png" width="750" height="420">
+<img src="/images/1.png" width="750" height="360">
 
-<img src="/images/2.png" width="750" height="420">
+<img src="/images/2.png" width="750" height="360">
 
-<img src="/images/3.png" width="750" height="420">
+<img src="/images/3.png" width="750" height="360">
 
 <img src="/images/4.png?raw=true"/>
 
