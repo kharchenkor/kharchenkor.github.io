@@ -46,6 +46,17 @@ quarter, which is concerning to the business. I analyzed the available data and 
 the company's management can make the necessary decisions.
 
 #### Some examples
+**Figure 1**: Customer feedback over time
+<img src="/images/Q3.png" width="750" height="420">
+
+
+**Figure 2**: Vehicle makers and States
+
+<img src="/images/Q5-3.png" width="750" height="390">
+<img src="/images/Q5-31.PNG" width="480" height="330">
+<img src="/images/Q5-32.PNG" width="480" height="330">
+<img src="/images/Q5-33.PNG" width="480" height="330">
+
 
 
 ---
