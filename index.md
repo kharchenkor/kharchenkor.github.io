@@ -52,9 +52,9 @@ the company's management can make the necessary decisions.
 
 **Figure 2**: Vehicle makers and States
 <img src="/images/Q5-3.png" width="750" height="360">
-<img src="/images/Q5-31.PNG" width="420" height="300">
-<img src="/images/Q5-32.PNG" width="420" height="300">
-<img src="/images/Q5-33.PNG" width="420" height="300">
+<img src="/images/Q5-31.PNG" width="360" height="270">
+<img src="/images/Q5-32.PNG" width="360" height="270">
+<img src="/images/Q5-33.PNG" width="360" height="270">
 
 
 
