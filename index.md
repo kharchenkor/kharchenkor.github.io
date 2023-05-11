@@ -59,6 +59,8 @@ the company's management can make the necessary decisions.
 <img src="/images/Q12.png" width="750" height="360">
 <img src="/images/Q15.PNG" width="750" height="180">
 
+[View Business Report on GitHub](https://github.com/kharchenkor/kharchenkor.github.io/blob/master/pdf/New-Wheels-Business-Report-v.2.pdf)
+
 [![](https://img.shields.io/badge/MySQL-white?logo=MySQL&logoColor=blue)](#) [![](https://img.shields.io/badge/PowerPoint-white?logo=microsoft-powerpoint&logoColor=darkred)](#) [![](https://img.shields.io/badge/Excel-white?logo=microsoft-excel&logoColor=darkgreen)](#)
 
 ---
