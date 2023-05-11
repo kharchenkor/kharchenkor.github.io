@@ -59,14 +59,23 @@ the company's management can make the necessary decisions.
 <img src="/images/Q12.png" width="750" height="360">
 <img src="/images/Q15.PNG" width="750" height="180">
 
-[View SQL code on GitHub](https://kharchenkor.github.io/pdf/New-Wheels-MySQL_R.Kharchenko-v.2.pdf)
+[View SQL code](https://kharchenkor.github.io/pdf/New-Wheels-MySQL_R.Kharchenko-v.2.pdf)
 
-[View Business Report on GitHub](https://kharchenkor.github.io/pdf/New-Wheels-Business-Report-v.2.pdf)
+[View Business Report](https://kharchenkor.github.io/pdf/New-Wheels-Business-Report-v.2.pdf)
 
 [![](https://img.shields.io/badge/MySQL-white?logo=MySQL&logoColor=blue)](#) [![](https://img.shields.io/badge/PowerPoint-white?logo=microsoft-powerpoint&logoColor=darkred)](#) [![](https://img.shields.io/badge/Excel-white?logo=microsoft-excel&logoColor=darkgreen)](#)
 
 ---
+### Data Visualization using Microsoft Power BI
 
+Business context: 
+
+#### Some examples
+
+
+[![](https://img.shields.io/badge/PowerBI-white?logo=logo=Power%20BI&logoColor=darkyellow)](#)
+
+--- 
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
