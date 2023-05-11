@@ -57,8 +57,9 @@ the company's management can make the necessary decisions.
 
 **Figure 3**: Customer feedback and Shipping time
 <img src="/images/Q12.png" width="750" height="360">
-<img src="/images/Q15.PNG" width="750" height="240">
+<img src="/images/Q15.PNG" width="750" height="210">
 
+<img src="images/MS_Excel_logo.png" width="16" height="17">[![](https://img.shields.io/badge/Excel-white?)](#)
 
 ---
 
