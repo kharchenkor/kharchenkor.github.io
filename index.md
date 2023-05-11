@@ -37,8 +37,16 @@ make a decision on a new sales model (a subscription model) that will attract mo
 [View dashboard on Tableau Public](https://public.tableau.com/app/profile/roman3494/viz/GrLrn-Project-Gamers_Arena/InteractiveDashboard?publish=yes)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Data Analytics with SQL
+
+Business context: New-Wheels, a vehicle resale company, has launched an app with an end-to-end service from listing the vehicle on the platform 
+to shipping it to the customer's location. This app also captures the overall after-sales feedback given by the customer. Company's sales have 
+been dipping steadily in the past year, and due to the critical customer feedback and ratings online, there has been a drop in new customers every 
+quarter, which is concerning to the business. I analyzed the available data and compiled a quarterly report with all the key metrics so that 
+the company's management can make the necessary decisions.
+
+#### Some examples
+
 
 ---
 
