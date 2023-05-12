@@ -47,11 +47,11 @@ the company's management can make the necessary decisions.
 
 #### Some examples
 **Figure 1**: Customer feedback over time
-<img src="/images/Q3.png" width="750" height="381">
+<img src="/images/Q3.png" width="750" height="375">
 
 
 **Figure 2**: Vehicle makers and States
-<img src="/images/Q5-3.png" width="750" height="354">
+<img src="/images/Q5-3.png" width="750" height="348">
 <div style="display: flex;">
 <img src="/images/Q5-31.PNG" width="270" height="240" style="flex: 1;"> 
 <img src="/images/Q5-32.PNG" width="270" height="240" style="flex: 1;">
@@ -59,7 +59,7 @@ the company's management can make the necessary decisions.
 <img src="/images/Q5-33.PNG" width="249" height="234">
 
 **Figure 3**: Customer feedback and Shipping time
-<img src="/images/Q12.png" width="750" height="354">
+<img src="/images/Q12.png" width="750" height="348">
 <img src="/images/Q15.PNG" width="750" height="180">
 
 [View SQL code](https://kharchenkor.github.io/pdf/New-Wheels-MySQL_R.Kharchenko-v.2.pdf)
@@ -94,8 +94,7 @@ goes through.
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
