@@ -1,6 +1,6 @@
 ## Portfolio
 
-[Confirmed academic e-portfolio](https://eportfolio.mygreatlearning.com/roman-kharchenko)
+[Confirmed academic ePortfolio](https://eportfolio.mygreatlearning.com/roman-kharchenko)
 
 ---
 
@@ -90,6 +90,8 @@ goes through.
 
 --- 
 ## Small projects from different sections of data analytics
+
+Still in progress...
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
