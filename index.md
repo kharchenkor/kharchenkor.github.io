@@ -52,9 +52,9 @@ the company's management can make the necessary decisions.
 
 **Figure 2**: Vehicle makers and States
 <img src="/images/Q5-3.png" width="750" height="360">
-<div>
-<img src="/images/Q5-31.PNG" width="270" height="240" style="float: left;"> 
-<img src="/images/Q5-32.PNG" width="270" height="240" style="float: left;">
+<div style="display: flex;">
+<img src="/images/Q5-31.PNG" width="270" height="240" style="flex: 1;"> 
+<img src="/images/Q5-32.PNG" width="270" height="240" style="flex: 1;">
 </div>
 <img src="/images/Q5-33.PNG" width="270" height="240">
 
@@ -76,6 +76,10 @@ potential, and positional strengths. Through this project, we will get insights 
 goes through.
 
 #### Some examples
+
+<img src="/images/1.Navigator.png" width="750" height="360">
+<img src="/images/2.Overall-age.png" width="750" height="360">
+<img src="/images/3.Offensive-wages.png" width="750" height="360">
 
 
 [![](https://img.shields.io/badge/PowerBI-white?logo=Power%20BI&logoColor=darkyellow)](#)
