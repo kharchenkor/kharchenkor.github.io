@@ -68,12 +68,14 @@ the company's management can make the necessary decisions.
 ---
 ### Data Visualization using Microsoft Power BI
 
-Business context: 
+Context:  the 2018-primarily player data provided by FIFA contains information such as personal details, wages, physical attributes, technical skills, 
+potential, and positional strengths. Through this project, we will get insights into soccer and the kind of information and decisions a football manager 
+goes through.
 
 #### Some examples
 
 
-[![](https://img.shields.io/badge/PowerBI-white?logo=logo=Power%20BI&logoColor=darkyellow)](#)
+[![](https://img.shields.io/badge/PowerBI-white?logo=Power%20BI&logoColor=darkyellow)](#)
 
 --- 
 ### Category Name 2
