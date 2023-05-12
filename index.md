@@ -66,7 +66,7 @@ the company's management can make the necessary decisions.
 
 [View Business Report](https://kharchenkor.github.io/pdf/New-Wheels-Business-Report-v.2.pdf)
 
-[![](https://img.shields.io/badge/MySQL-white?logo=MySQL&logoColor=blue)](#) [![](https://img.shields.io/badge/PowerPoint-white?logo=microsoft-powerpoint&logoColor=darkred)](#) [![](https://img.shields.io/badge/Excel-white?logo=microsoft-excel&logoColor=darkgreen)](#)
+[![](https://img.shields.io/badge/MySQL-white?logo=MySQL&logoColor=blue)](#) [![](https://img.shields.io/badge/Excel-white?logo=microsoft-excel&logoColor=darkgreen)](#) [![](https://img.shields.io/badge/PowerPoint-white?logo=microsoft-powerpoint&logoColor=darkred)](#)
 
 ---
 ### Data Visualization using Microsoft Power BI
@@ -86,7 +86,7 @@ goes through.
 <img src="/images/9.Best-clubs-wages.png" width="750" height="279">
 
 
-[![](https://img.shields.io/badge/PowerBI-white?logo=Power%20BI&logoColor=darkyellow)](#)
+[![](https://img.shields.io/badge/PowerBI-white?logo=Power%20BI&logoColor=darkyellow)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
 --- 
 ## Small projects from different sections of data analytics
