@@ -56,7 +56,7 @@ the company's management can make the necessary decisions.
 <img src="/images/Q5-31.PNG" width="270" height="240" style="flex: 1;"> 
 <img src="/images/Q5-32.PNG" width="270" height="240" style="flex: 1;">
 </div>
-<img src="/images/Q5-33.PNG" width="270" height="240">
+<img src="/images/Q5-33.PNG" width="255" height="225">
 
 **Figure 3**: Customer feedback and Shipping time
 <img src="/images/Q12.png" width="750" height="360">
@@ -77,9 +77,12 @@ goes through.
 
 #### Some examples
 
-<img src="/images/1.Navigator.png" width="750" height="360">
-<img src="/images/2.Overall-age.png" width="750" height="360">
-<img src="/images/3.Offensive-wages.png" width="750" height="360">
+<img src="/images/1.Navigator.png" width="750" height="300">
+<img src="/images/3.Offensive-wages.png" width="750" height="300">
+<img src="/images/4.Top-players.png" width="750" height="300">
+<img src="/images/4.Top-players.png" width="750" height="300">
+<img src="/images/5.Clubs-nationalities.png" width="750" height="300">
+<img src="/images/6.Potential-wages.png" width="750" height="300">
 
 
 [![](https://img.shields.io/badge/PowerBI-white?logo=Power%20BI&logoColor=darkyellow)](#)
