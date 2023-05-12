@@ -56,7 +56,7 @@ the company's management can make the necessary decisions.
 <img src="/images/Q5-31.PNG" width="270" height="240" style="flex: 1;"> 
 <img src="/images/Q5-32.PNG" width="270" height="240" style="flex: 1;">
 </div>
-<img src="/images/Q5-33.PNG" width="249" height="228">
+<img src="/images/Q5-33.PNG" width="249" height="234">
 
 **Figure 3**: Customer feedback and Shipping time
 <img src="/images/Q12.png" width="750" height="360">
@@ -77,19 +77,19 @@ goes through.
 
 #### Some examples
 
-<img src="/images/1.Navigator.png" width="750" height="282">
-<img src="/images/3.Offensive-wages.png" width="750" height="282">
-<img src="/images/5.Clubs-nationalities.png" width="750" height="282">
-<img src="/images/6.Potential-wages.png" width="750" height="282">
-<img src="/images/7.Aggression.png" width="750" height="282">
-<img src="/images/8.Best-future-players.png" width="750" height="282">
-<img src="/images/9.Best-clubs-wages.png" width="750" height="282">
+<img src="/images/1.Navigator.png" width="750" height="279">
+<img src="/images/3.Offensive-wages.png" width="750" height="279">
+<img src="/images/5.Clubs-nationalities.png" width="750" height="279">
+<img src="/images/6.Potential-wages.png" width="750" height="279">
+<img src="/images/7.Aggression.png" width="750" height="279">
+<img src="/images/8.Best-future-players.png" width="750" height="279">
+<img src="/images/9.Best-clubs-wages.png" width="750" height="279">
 
 
 [![](https://img.shields.io/badge/PowerBI-white?logo=Power%20BI&logoColor=darkyellow)](#)
 
 --- 
-## Small projects from different parts of data analytics
+## Small projects from different sections of data analytics
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -102,6 +102,3 @@ goes through.
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
