@@ -92,12 +92,9 @@ goes through.
 
 ### Small projects from different sections of data analytics
 
----
-### Practical Statistics using Python
+**Practical Statistics using Python:** here I focused on statistics and performed a few hypothesis tests based on the insurance company's data.
 
-Description: here I focused on statistics and performed a few hypothesis tests based on the insurance company's data.
-
-[View code on Colab](https://drive.google.com/file/d/1vLpeKB6O81WHXeLoUL_cep6Wo_iHPCRT/view?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1vLpeKB6O81WHXeLoUL_cep6Wo_iHPCRT?usp=sharing)
 
 ---
 Still in progress...
