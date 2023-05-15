@@ -89,14 +89,21 @@ goes through.
 [![](https://img.shields.io/badge/PowerBI-white?logo=Power%20BI&logoColor=darkyellow)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
 --- 
-## Small projects from different sections of data analytics
 
+### Small projects from different sections of data analytics
+
+---
+### Practical Statistics using Python
+
+Description: here I focused on statistics and performed a few hypothesis tests based on the insurance company's data.
+
+[View code on Colab](https://drive.google.com/file/d/1vLpeKB6O81WHXeLoUL_cep6Wo_iHPCRT/view?usp=sharing)
+
+---
 Still in progress...
 
-- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
-
 
 ---
 
