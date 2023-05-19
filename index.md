@@ -97,9 +97,14 @@ goes through.
 [View code on Colab](https://colab.research.google.com/drive/1vLpeKB6O81WHXeLoUL_cep6Wo_iHPCRT?usp=sharing)
 
 ---
+**Statistical Modeling using Python:** here I built a linear regression model to predict the housing prices of a town or a suburb based on the features 
+of the locality provided in the dataset.
+
+[View code on Colab](https://colab.research.google.com/drive/1AgHNu2uNJZIVYtKtxRfKQvPM5eO9otDr?usp=sharing)
+
+---
 Still in progress...
 
-- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 
 ---
