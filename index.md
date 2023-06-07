@@ -106,7 +106,7 @@ of the locality provided in the dataset.
 
 ### Some completed additional programs
 
-**TATA virtual experience programme:** https://www.theforage.com/virtual-internships/prototype/MyXvBcppsW2FkNYCX/Data-Visualisation-Empowering-Business-with-Effective-Insights?ref
+[TATA virtual experience programme:](https://www.theforage.com/virtual-internships/prototype/MyXvBcppsW2FkNYCX/Data-Visualisation-Empowering-Business-with-Effective-Insights?ref)
 
 [View certificate](https://kharchenkor.github.io/pdf/Tata_1686103342701_completion_certificate.pdf)
 
