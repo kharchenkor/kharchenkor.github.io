@@ -103,6 +103,14 @@ of the locality provided in the dataset.
 [View code on Colab](https://colab.research.google.com/drive/1AgHNu2uNJZIVYtKtxRfKQvPM5eO9otDr?usp=sharing)
 
 ---
+**Data preparation and customer analytics using R:** here I conducted an analysis of the client's transaction dataset and identified customer purchasing behaviors to generate insights and provide commercial recommendations.
+
+Based on recommendations and hints from the:
+[Quantium virtual experience program on Forage](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=T9fDHFuzW5X6bYbYF)
+
+[View code](https://kharchenkor.github.io/pdf/Quantium-Virtual-Internship-Retail-Strategy-and-Analytics---Task-1_v.2.pdf)
+
+---
 
 ### Some completed additional programs
 
