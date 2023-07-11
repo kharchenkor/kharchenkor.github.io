@@ -92,23 +92,28 @@ goes through.
 
 ### Small projects from different sections of data analytics
 
-**Practical Statistics using Python:** here I focused on statistics and performed a few hypothesis tests based on the insurance company's data.
+**Practical Statistics using Python:** Here I focused on statistics and performed a few hypothesis tests based on the insurance company's data.
 
 [View code on Colab](https://colab.research.google.com/drive/1vLpeKB6O81WHXeLoUL_cep6Wo_iHPCRT?usp=sharing)
 
 ---
-**Statistical Modeling using Python:** here I built a linear regression model to predict the housing prices of a town or a suburb based on the features 
+**Statistical Modeling using Python:** Here I built a linear regression model to predict the housing prices of a town or a suburb based on the features 
 of the locality provided in the dataset.
 
 [View code on Colab](https://colab.research.google.com/drive/1AgHNu2uNJZIVYtKtxRfKQvPM5eO9otDr?usp=sharing)
 
 ---
-**Data preparation and customer analytics using R:** here I conducted an analysis of the client's transaction dataset and identified customer purchasing behaviors to generate insights and provide commercial recommendations.
+**Data preparation and customer analytics using R:** Here I conducted an analysis of the client's transaction dataset and identified customer purchasing behaviors to generate insights and provide commercial recommendations.
+
+[View code](https://kharchenkor.github.io/pdf/Quantium-Virtual-Internship-Retail-Strategy-and-Analytics---Task-1_v.2.pdf)
+
+
+**Experimentation and uplift testing using R:** Extension of the previous analysis to identify benchmark stores that allow testing the impact of the trial store layouts on customer counts and sales.
+
+[View code](https://kharchenkor.github.io/pdf/Quantium-Virtual-Internship-Retail-Strategy-and-Analytics---Task-2.pdf)
 
 Based on recommendations and hints from the:
 [Quantium virtual experience program on Forage](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=T9fDHFuzW5X6bYbYF)
-
-[View code](https://kharchenkor.github.io/pdf/Quantium-Virtual-Internship-Retail-Strategy-and-Analytics---Task-1_v.2.pdf)
 
 ---
 
