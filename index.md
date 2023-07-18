@@ -115,6 +115,8 @@ of the locality provided in the dataset.
 Based on recommendations and hints from the:
 [Quantium virtual experience program on Forage](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=T9fDHFuzW5X6bYbYF)
 
+[View certificate](https://kharchenkor.github.io/pdf/Quantium_1689697998077_completion_certificate.pdf)
+
 ---
 
 ### Some completed additional programs
